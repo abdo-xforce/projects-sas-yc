@@ -1,0 +1,5 @@
+// 5. Change an item by index — Medium
+
+let colors = ["red", "green", "blue"]
+colors [1]= "yellow" 
+console.log(colors)
